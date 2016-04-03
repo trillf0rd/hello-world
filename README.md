@@ -1,2 +1,2 @@
 # hello-world
-print "go hoos"
+go hoos
